@@ -1,0 +1,15 @@
+{
+  "name": "cypress-api",
+  "version": "1.0.0",
+  "description": "sample automation api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai-json-schema": "^1.5.1",
+    "cypress": "^13.6.4"
+  }
+}
